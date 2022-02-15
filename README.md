@@ -1,3 +1,3 @@
 # Gowtham
 Gowtham Ramakrishnan's portfolio
-https://github.com/Gowthamrn5/Gowtham.git
+https://github-readme-stats.vercel.app/api?username=gowthamrn5
